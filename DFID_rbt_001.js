@@ -47,7 +47,7 @@ let driver = new Builder().forBrowser('chrome').build();
     setTimeout(checkOut,10000); 
     setTimeout(showCart,15000); 
     setTimeout(addAddress,18000); 
-    setTimeout(saveAddress,19000); 
+    setTimeout(saveAddress,19000);
 })();
 
 
