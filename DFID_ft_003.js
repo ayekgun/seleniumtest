@@ -49,7 +49,7 @@ let driver = new Builder().forBrowser('chrome').build();
     setTimeout(everTab,18000);
     setTimeout(bck,19000);
     setTimeout(bck,20000);
-    setTimeout(bck,21000);
+    setTimeout(bck,21000); 
 })();
 
 
